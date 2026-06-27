@@ -48,17 +48,18 @@ Each mini project focuses on a specific dataset or analytical problem, helping b
 ## 📂 Repository Structure
 
 ```bash id="tll0hi"
+```bash
 data-analysis-mini-projects/
 │
 ├── project-folder/
 │   ├── README.md
-│   ├── notebook.ipynb
+│   ├── assignment-question.pdf
 │   ├── dataset.csv
 │   └── notebook.pdf
 │
 ├── project-folder/
 │   ├── README.md
-│   ├── notebook.ipynb
+│   ├── assignment-question.pdf
 │   ├── dataset.csv
 │   └── notebook.pdf
 │
@@ -68,9 +69,10 @@ data-analysis-mini-projects/
 ### Folder Organization
 
 * 📁 **Project Folder** → Contains a complete mini project.
-* 📄 **README.md** → Project description and key findings.
-* 📓 **Notebook** → Analysis workflow and implementation.
-* 📊 **Dataset** → Data used for the project.
+* 📄 **README.md** → Project description, methodology, and key findings.
+* 📝 **Assignment Question** → Problem statement or task requirements for the project.
+* 📊 **Dataset** → Data used for the analysis.
+* 📑 **Notebook Report** → Exported PDF version of the complete analysis notebook.
 
 ---
 
